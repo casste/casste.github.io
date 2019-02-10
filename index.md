@@ -7,40 +7,34 @@
 MCUs
 ====
 
-|                                          |                                                  |
-|------------------------------------------|--------------------------------------------------|
-| ST STM32 32-bit ARM Cortex M0, M0+ y M3. | Freescale Kinetis K Series 32-bit ARM Cortex M4. |
-| TI TIVA 32-bit ARM Cortex M4F.           | NXP LPC1100 Series: 32-bit ARM Cortex M0.        |
-| TI MSP430 16-bit.                        | Freescale 68HC12 16-bit.                         |
-| Freescale 68HC08 8-bit.                  | ATMEL tinyAVR 8-bit.                             |
-| Raspberry Pi.                            | Windows PC.                                      |
-| Linux.                                   | Android Devices.                                 |
+|                                          |                                                 |                               |
+|------------------------------------------|-------------------------------------------------|-------------------------------|
+| ST STM32 32-bit ARM Cortex M0, M0+ y M3  | Freescale Kinetis K Series 32-bit ARM Cortex M4 | TI TIVA 32-bit ARM Cortex M4F |
+| NXP LPC1100 Series: 32-bit ARM Cortex M0 | TI MSP430 16-bit | Freescale 68HC12 16-bit |
+| Freescale 68HC08 8-bit | ATMEL tinyAVR 8-bit | Raspberry Pi |
+| Windows PC | Linux | Android Devices |
 
 IDEs
 ====
 
-|                             |                                           |
-|-----------------------------|-------------------------------------------|
-| Rowley Crossstudio for ARM. | Kinetis Desing Studio.                    |
-| IAR Embedded Workbench.     | Code Composer Studio.                     |
-| LPCXpresso IDE.             | CodeWarrior Software Development Tools.   |
-| Atmel Studio.               | Keil MDK Microcontroller Development Kit. |
-| Eclipse IDE.                | Wiced Studio.                             |
-| IntelliJ IDEA.              | Android Studio.                           |
-| Emacs.                      | Sublime Text.                             |
+|                            |                       |                        |
+|----------------------------|-----------------------|------------------------|
+| Rowley Crossstudio for ARM | Kinetis Desing Studio | IAR Embedded Workbench |
+| Code Composer Studio       | LPCXpresso IDE        | CodeWarrior Software Development Tools |
+| Atmel Studio | Keil MDK Microcontroller Development Kit | Eclipse IDE |
+| Wiced Studio | IntelliJ IDEA | Android Studio |
+|Emacs | Sublime Text |
 
 Languages
 =========
 
 |           |           |
 |-----------|-----------|
-| C/C++.    | Bash.     |
-| Python.   | Java.     |
-| MySQL.    | Php.      |
-| R.        | TCL.      |
-| Basic.    | Markdown. |
-| Wikitext. | Org.      |
-| elisp.    |           |
+| C/C++ | Bash | Python |
+| Java | MySQL | Php |
+| R | TCL | Basic |
+| Markdown | Wikitext | Org |
+| elisp | | |
  
 Integrations and Stack Implementations
 ======================================
