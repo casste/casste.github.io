@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+Alejandro Castellanos De La Torre
+=================================
 
-You can use the [editor on GitHub](https://github.com/casste/casste.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+----
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> 14+ years of writing code for embedded systems, proficient in C, bash, and Python. Written embedded applications for metering.
 
-### Markdown
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MCUs
+====
 
-```markdown
-Syntax highlighted code block
+|                                          |                                                  |
+|------------------------------------------|--------------------------------------------------|
+| ST STM32 32-bit ARM Cortex M0, M0+ y M3. | Freescale Kinetis K Series 32-bit ARM Cortex M4. |
+| TI TIVA 32-bit ARM Cortex M4F.           | NXP LPC1100 Series: 32-bit ARM Cortex M0.        |
+| TI MSP430 16-bit.                        | Freescale 68HC12 16-bit.                         |
+| Freescale 68HC08 8-bit.                  | ATMEL tinyAVR 8-bit.                             |
+| Raspberry Pi.                            | Windows PC.                                      |
+| Linux.                                   | Android Devices.                                 |
 
-# Header 1
-## Header 2
-### Header 3
+IDEs
+====
 
-- Bulleted
-- List
+|                             |                                           |
+|-----------------------------|-------------------------------------------|
+| Rowley Crossstudio for ARM. | Kinetis Desing Studio.                    |
+| IAR Embedded Workbench.     | Code Composer Studio.                     |
+| LPCXpresso IDE.             | CodeWarrior Software Development Tools.   |
+| Atmel Studio.               | Keil MDK Microcontroller Development Kit. |
+| Eclipse IDE.                | Wiced Studio.                             |
+| IntelliJ IDEA.              | Android Studio.                           |
+| Emacs.                      | Sublime Text.                             |
 
-1. Numbered
-2. List
+Languages
+=========
 
-**Bold** and _Italic_ and `Code` text
+|           |           |
+|-----------|-----------|
+| C/C++.    | Bash.     |
+| Python.   | Java.     |
+| MySQL.    | Php.      |
+| R.        | TCL.      |
+| Basic.    | Markdown. |
+| Wikitext. | Org.      |
+| elisp.    |           |
+ 
+Integrations and Stack Implementations
+======================================
 
-[Link](url) and ![Image](src)
-```
+- LoraWan, ST-LPWAN.
+- Ethernet TCP/IPV4, RTCS-MQX.
+- WiFi, bcm43340 based modules.
+- RFID, NXP MIfare.
+- USB, ST-USB-Library.
+- PLC Narrow Band, fsk ST7580 and ofdm MAX2990.
+- Graphics, TI-Grlib.
+- DLMS, kalkitech.
+- Drivers for a lot of SoC.
+- HAL's for UART/USART, SPI, GPIOS, etc.
+- A lot of propietary firmware like serial comunications protocols, AES encriptation, chipher, file systems, etc..
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Others
+======
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/casste/casste.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- written bare-metal device drivers and application code for microcontrollers.
+- written interrupt-driven device drivers for microcontroller peripherals and be familiar power management concepts as they relate to firmware.
+- written either USB device or host code.-
+- able to read a schematic.
+- led a firmware development effort. Specifically, the -candidate must be comfortable translating requirements into tasks, creating a development plan, and leveraging a team to execute that plan.
+- experience testing firmware.
+- factory test experience.
+- a basic understanding of symmetric and asymmetric cryptography.
+- a strong understanding of cryptographic primitives such as AES.
+- written or ported cryptographic code.
+- written a secure bootloader.
+  
