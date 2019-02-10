@@ -1,6 +1,3 @@
-Alejandro Castellanos De La Torre
-=================================
-
 ----
 
 > 14+ years of writing code for embedded systems, proficient in C, bash, and Python. Written embedded applications for metering.
