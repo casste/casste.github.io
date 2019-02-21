@@ -42,11 +42,11 @@ Integrations and Stack Implementations
 - LoraWan, ST-LPWAN.
 - Ethernet TCP/IPV4, RTCS-MQX.
 - WiFi, bcm43340 based modules.
-- RFID, NXP MIfare.
+- RFID.
 - USB, ST-USB-Library.
 - PLC Narrow Band, fsk ST7580 and ofdm MAX2990.
 - Graphics, TI-Grlib.
-- DLMS, kalkitech.
+- DLMS.
 - Drivers for a lot of SoC.
 - HAL's for UART/USART, SPI, GPIOS, etc.
 - A lot of propietary firmware like serial comunications protocols, AES encriptation, chipher, file systems, etc..
