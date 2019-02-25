@@ -36,31 +36,14 @@ Integrations and Stack Implementations
 - LoraWan, ST-LPWAN.
 - Ethernet TCP/IPV4, RTCS-MQX.
 - WiFi, bcm43340 based modules.
-- RFID, NXP MIfare.
+- RFID.
 - USB, ST-USB-Library.
 - PLC Narrow Band, fsk ST7580 and ofdm MAX2990.
 - Graphics, TI-Grlib.
-- DLMS, kalkitech.
+- DLMS.
 - Drivers for a lot of SoC.
 - HAL's for UART/USART, SPI, GPIOS, etc.
 - A lot of propietary firmware like serial comunications protocols, AES encriptation, chipher, file systems, etc..
-
-Others
-======
-
-- written bare-metal device drivers and application code for microcontrollers.
-- written interrupt-driven device drivers for microcontroller peripherals and be familiar power management concepts as they relate to firmware.
-- written either USB device or host code.-
-- able to read a schematic.
-- led a firmware development effort. Specifically, the -candidate must be comfortable translating requirements into tasks, creating a development plan, and leveraging a team to execute that plan.
-- experience testing firmware.
-- factory test experience.
-- a basic understanding of symmetric and asymmetric cryptography.
-- a strong understanding of cryptographic primitives such as AES.
-- written or ported cryptographic code.
-- written a secure bootloader.
-  
-----
 
 > <casste@gmail.com> • 5527088699 • 42 years old\
 >  27 Mz. 1, Ignacio Allende - 50740 Ixtlahuaca, Estado de Mexico, MEXICO
