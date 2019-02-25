@@ -45,5 +45,5 @@ Integrations and Stack Implementations
 - HAL's for UART/USART, SPI, GPIOS, etc.
 - A lot of propietary firmware like serial comunications protocols, AES encriptation, chipher, file systems, etc..
 
-> <casste@gmail.com> • 5527088699 • 42 years old\
->  27 Mz. 1, Ignacio Allende - 50740 Ixtlahuaca, Estado de Mexico, MEXICO
+<!-- > <casste@gmail.com> • 5527088699 • 42 years old\ -->
+<!-- >  27 Mz. 1, Ignacio Allende - 50740 Ixtlahuaca, Estado de Mexico, MEXICO -->
