@@ -7,29 +7,57 @@ Alejandro Castellanos De La Torre
 
 ----
 
-|| Microcontrollers |
-|:----------------------------------------:|:-----------------------------------------------:|:-----------------------------:|
-| ST STM32 32-bit ARM Cortex M0, M0+ y M3  | Freescale Kinetis K Series 32-bit ARM Cortex M4 | TI TIVA 32-bit ARM Cortex M4F |
-| NXP LPC1100 Series: 32-bit ARM Cortex M0 | TI MSP430 16-bit | Freescale 68HC12 16-bit |
-| Freescale 68HC08 8-bit | ATMEL tinyAVR 8-bit | Raspberry Pi |
-| Windows PC | Linux | Android Devices |
+Microcontrollers
+================
 
-|| Development Tools |
-|:----------------------------------------:|:-----------------------------------------------:|:-----------------------------:|
-| Rowley Crossstudio for ARM | Kinetis Desing Studio | IAR Embedded Workbench |
-| Code Composer Studio       | LPCXpresso IDE        | CodeWarrior Software Development Tools |
-| Atmel Studio | Keil MDK Microcontroller Development Kit | Eclipse IDE |
-| Wiced Studio | IntelliJ IDEA | Android Studio |
-|Emacs | Sublime Text |
+* ST STM32 32-bit ARM Cortex M0, M0+ y M3.
+* Freescale Kinetis K Series 32-bit ARM Cortex M4.
+* Freescale 68HC12 16-bit.
+* Freescale 68HC08 8-bit.
+* NXP LPC1100 Series: 32-bit ARM Cortex M0.
+* TI MSP430 16-bit.
+* TI TIVA 32-bit ARM Cortex M4F.
+* ATMEL tinyAVR 8-bit.
+* Raspberry Pi.
+* Windows PC.
+* Linux PC.
+* Android Devices.
 
-|| Languages |
-|:----------------------------------------:|:-----------------------------------------------:|:-----------------------------:|
-| C/C++ | Bash | Python |
-| Java | MySQL | Php |
-| R | TCL | Basic |
-| Markdown | Wikitext | Org |
-| elisp | | |
- 
+Languages.
+==========
+
+* C/C++.
+* Bash.
+* Python.
+* Java.
+* MySQL.
+* Php.
+* R.
+* TCL.
+* Basic.
+* Markdown.
+* Wikitext.
+* Org.
+* elisp
+
+Development Tools.
+==================
+
+* Rowley Crossstudio for ARM.
+* Kinetis Desing Studio.
+* IAR Embedded Workbench.
+* Code Composer Studio.
+* LPCXpresso IDE.
+* CodeWarrior Software Development Tools.
+* Atmel Studio.
+* Keil MDK Microcontroller Development Kit.
+* Eclipse IDE.
+* Wiced Studio.
+* IntelliJ IDEA.
+* Android Studio.
+* Emacs.
+* Sublime Text.
+
 Integrations and Stack Implementations
 ======================================
 
