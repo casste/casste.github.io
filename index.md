@@ -1,5 +1,4 @@
-Alejandro Castellanos De La Torre
-=================================
+# Alejandro Castellanos De La Torre
 
 ----
 
@@ -7,8 +6,7 @@ Alejandro Castellanos De La Torre
 
 ----
 
-Microcontrollers
-================
+## Microcontrollers
 
 * ST STM32 32-bit ARM Cortex M0, M0+ y M3.
 * Freescale Kinetis K Series 32-bit ARM Cortex M4.
@@ -23,8 +21,7 @@ Microcontrollers
 * Linux PC.
 * Android Devices.
 
-Languages.
-==========
+## Programming Languages
 
 * C/C++.
 * Bash.
@@ -40,8 +37,7 @@ Languages.
 * Org.
 * elisp
 
-Development Tools.
-==================
+## Development Tools.
 
 * Rowley Crossstudio for ARM.
 * Kinetis Desing Studio.
@@ -58,8 +54,7 @@ Development Tools.
 * Emacs.
 * Sublime Text.
 
-Integrations and Stack Implementations
-======================================
+## Integrations and Stack Implementations
 
 - LoraWan, ST-LPWAN.
 - Ethernet TCP/IPV4, RTCS-MQX.
